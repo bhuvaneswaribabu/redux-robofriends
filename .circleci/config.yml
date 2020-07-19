@@ -7,5 +7,3 @@ jobs:
       - checkout
       - run: echo "npm installing"
       - run: npm install
-      - run: npm run build
- 
